@@ -1,6 +1,1 @@
-﻿  vjezba4.c
-C:\Users\vrgoc\OneDrive\Radna površina\Zadatak4\zadatak  4\zadatak  4\vjezba4.c(14,1): warning C4005: 'EXIT_FAILURE': macro redefinition
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(53): message : see previous definition of 'EXIT_FAILURE'
-C:\Users\vrgoc\OneDrive\Radna površina\Zadatak4\zadatak  4\zadatak  4\vjezba4.c(80,16): warning C4090: 'function': different 'const' qualifiers
-C:\Users\vrgoc\OneDrive\Radna površina\Zadatak4\zadatak  4\zadatak  4\vjezba4.c(82,16): warning C4090: 'function': different 'const' qualifiers
-  zadatak  4.vcxproj -> C:\Users\vrgoc\OneDrive\Radna površina\Zadatak4\zadatak  4\x64\Debug\zadatak  4.exe
+﻿  zadatak  4.vcxproj -> C:\Users\vrgoc\OneDrive\Radna površina\zadatak-4\zadatak  4\x64\Debug\zadatak  4.exe
